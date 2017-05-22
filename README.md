@@ -4,9 +4,10 @@ A small ES5 demo app built with:
 - MobX _for state management_
 
 To Run:
-npm install
-npm run dev
-or
-npm run buid:test
-or
-npm run build:live
+npm install  
+npm run dev  
+or  
+npm run buid:test  
+or  
+npm run build:live  
+Enjoy! :)
